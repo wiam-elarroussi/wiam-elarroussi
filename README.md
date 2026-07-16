@@ -25,11 +25,6 @@ I am a **Full Stack Developer** and **Computer Science Engineering Student** who
 
 ---
 
-### 🌌 What I'm Building Next...
-I am currently working on **The Hybrid Nexus**—a dynamic 3D portfolio powered by **Three.js (React Three Fiber)** and **Laravel**. It is designed as a futuristic digital vitrine that showcases my projects, skills, and milestones in a real-time, interactive 3D universe. Keep an eye out for the launch!
-
----
-
 ### 📫 Let's Connect!
 
 - **LinkedIn:** [linkedin.com/in/wiam-elarroussi](https://linkedin.com/in/wiam-elarroussi)
